@@ -1,0 +1,25 @@
+{
+   "name":"Teja",
+   "phone":"1234567890",
+   "email":"viswa@viswa.com",
+   "address":{
+      "primary":"Some where on earth",
+      "secondary":"Some "
+   },
+   "Items":[
+      {
+         "item_name":"Mobile",
+         "sku":"sku1245",
+         "quantity":1,
+         "price":35,
+         "deliverd":true
+      },
+      {
+         "item_name":"laptop",
+         "sku":"sku3433",
+         "quantity":1,
+         "price":"95",
+         "deliverd":false
+      }
+   ]
+}
